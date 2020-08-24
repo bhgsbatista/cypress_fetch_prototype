@@ -1,0 +1,17 @@
+{
+  "name": "cypress_fetch_prototype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --headless"
+  },
+  "author": "Samuel Batista",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "cypress": "^5.0.0"
+  }
+}
